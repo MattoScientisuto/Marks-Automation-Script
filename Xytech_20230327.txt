@@ -1,0 +1,18 @@
+Xytech Workorder 1114
+
+Producer: Joan Jett
+Operator: John Doe
+Job: Dirtfixing
+
+
+Location:
+/ddnsata2/production/Avatar/reel5/partA/1920x1080
+/ddnsata9/production/Avatar/reel5/VFX/Hydraulx
+/ddnsata5/production/Avatar/reel5/VFX/Framestore
+/ddnsata1/production/Avatar/reel5/VFX/AnimalLogic
+/ddnsata6/production/Avatar/reel5/partB/1920x1080
+/ddnsata11/production/Avatar/pickups/shot_5ab/1920x1080
+
+
+Notes:
+Please clean files noted per Colorist THolland and DFlowers

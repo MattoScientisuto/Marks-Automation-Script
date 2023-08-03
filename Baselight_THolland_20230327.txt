@@ -1,0 +1,11 @@
+/images1/Avatar/reel5/partA/1920x1080 202 203 204 356 357 358 359 360 361 362 401 402 403 467 468 561 562 601 602 603 604 605 606 607 608
+/images1/Avatar/reel5/VFX/Hydraulx 701 702 703 704
+/images1/Avatar/reel5/VFX/Framestore 888 889 890 891 892 893 894 895 896 897
+/images1/Avatar/pickups/shot_5ab/1920x1080 1044 1045 1046 1047
+/images1/Avatar/reel5/VFX/Hydraulx 2678
+/images1/Avatar/reel5/VFX/AnimalLogic 3410
+/images1/Avatar/pickups/shot_5ab/1920x1080 4189
+/images1/Avatar/reel5/partB/1920x1080 6111 6112 6113 6114 6115 6116 6117 6118 7895 7896 7897 8011 8543
+/images1/Avatar/pickups/shot_5ab/1920x1080 9087 9088
+/images1/Avatar/reel5/VFX/Hydraulx 9555 9556 9557 9876 9956
+/images1/Avatar/pickups/shot_5ab/1920x1080 10800 10801 10802 10803

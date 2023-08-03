@@ -1,0 +1,4 @@
+/images1/Avatar/reel3/partA/1920x1080 134 135 136 137 712 713
+/images1/Avatar/pickups/shot_3ab/1920x1080 1045 1046 1166 1167 1168
+/images1/Avatar/reel3/VFX/Hydraulx 3045 3046
+/images1/Avatar/reel3/partB/1920x1080 8148 8149 8150 11112 11114

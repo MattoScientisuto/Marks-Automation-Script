@@ -1,0 +1,2 @@
+/net/flame-archive Avatar/reel1/partA/1920x1080 200 201 202 203 422 423 424
+/net/flame-archive Avatar/reel1/partB/1920x1080 7654 7655 7778 8800 9942

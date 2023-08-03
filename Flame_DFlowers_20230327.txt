@@ -1,0 +1,2 @@
+/net/flame-archive Avatar/reel5/partB/1920x1080 4120 4121 4123 4124
+/net/flame-archive Avatar/pickups/shot_5ab/1920x1080 9090 9091

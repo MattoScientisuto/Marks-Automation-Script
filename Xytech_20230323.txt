@@ -1,0 +1,18 @@
+Xytech Workorder 1110
+
+Producer: Joan Jett
+Operator: Shane Mand
+Job: Dirtfixing
+
+
+Location:
+/ddnsata5/production/Avatar/reel1/partA/1920x1080
+/ddnsata7/production/Avatar/reel1/VFX/Hydraulx
+/ddnsata3/production/Avatar/reel1/VFX/Framestore
+/ddnsata9/production/Avatar/reel1/VFX/AnimalLogic
+/ddnsata2/production/Avatar/reel1/partB/1920x1080
+/ddnsata4/production/Avatar/pickups/shot_1ab/1920x1080
+
+
+Notes:
+Please clean files noted per Colorist DFlowers MFelix JJacobs

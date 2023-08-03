@@ -1,0 +1,17 @@
+Xytech Workorder 1112
+
+Producer: John Bon Jovi
+Operator: Tom Sandoval
+Job: Dirtfixing
+
+
+Location:
+/ddnsata4/production/Avatar/reel3/partA/1920x1080
+/ddnsata7/production/Avatar/reel3/VFX/Hydraulx
+/ddnsata7/production/starwars/reel3/VFX/Hydraulx
+/ddnsata9/production/Avatar/reel3/partB/1920x1080
+/ddnsata1/production/Avatar/pickups/shot_3ab/1920x1080
+
+
+Notes:
+Please clean files noted per Colorist GLopez

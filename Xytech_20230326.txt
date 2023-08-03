@@ -1,0 +1,15 @@
+Xytech Workorder 1113
+
+Producer: Doug Logos
+Operator: Natasha Pierce
+Job: Dirtfixing
+
+
+Location:
+/ddnsata3/production/Avatar/reel1/partA/1920x1080
+/ddnsata6/production/Avatar/pickups/shot_1ab/1920x1080
+/ddnsata5/production/Avatar/reel1/partB/1920x1080
+
+
+Notes:
+Please clean files noted per Colorist DFlowers THolland
